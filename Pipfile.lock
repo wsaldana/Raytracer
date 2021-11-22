@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "ec810761c43496c3fdbc9e56e11c0ca689cb2ac222fd9cf62924ee20cdfc14fe"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "raytracer": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
